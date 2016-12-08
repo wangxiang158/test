@@ -1,0 +1,62 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+header {
+  width: 100%;
+  height: 0.87rem;
+  background: #e4366b;
+}
+header .head-left {
+  float: left;
+  width: 1.04rem;
+  height: 100%;
+  text-align: center;
+  font-size: 0.24rem;
+  line-height: 0.87rem;
+  color: white;
+}
+header .head-center {
+  float: left;
+  width: 3.90rem;
+  height: 100%;
+  text-align: center;
+  font-size: 0.4rem;
+  line-height: 0.87rem;
+  color: white;
+}
+header .head-right {
+  float: left;
+  width: 1.46rem;
+  height: 100%;
+  text-align: center;
+  line-height: 0.87rem;
+}
+header .head-right span {
+  display: block;
+  margin-top: 0.16rem;
+  line-height: 0.55rem ;
+  text-align: center;
+  width: 1.1rem;
+  height: 0.55rem;
+  border: solid 0.01rem #a30b3a;
+  border-radius: 0.08rem ;
+  font-size: 0.24rem;
+  color: white;
+}
+.container {
+  width: 100%;
+}
+.container .head {
+  width: 100%;
+  height: 0.9rem;
+  background: #333333 ;
+  text-align: center;
+}
+.container .head span {
+  display: block;
+  height:100%;
+  line-height: 0.9rem;
+  font-size: 0.3rem;
+  color: white;
+}
